@@ -6,7 +6,7 @@ Mechanical Engineering student. As an intern in a Brazilian school chain, my act
 
 ##
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaelbkneip&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaelbkneip&layout=compact&theme=shadow_green)
 
 ##
 
