@@ -2,7 +2,7 @@
 
 ##
 
-Mechanical Engineering student. As a Data Analyst in a Brazilian school chain, my activities are most related to web scraping and file manipulation applications using Python for process automation.
+Mechanical Engineer. As a Data Analyst in a Brazilian school chain, my activities are most related to web scraping and file manipulation applications using Python for process automation.
 
 ##
 
